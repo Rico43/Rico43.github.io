@@ -1,0 +1,9 @@
+interface Mountain : NSObject
+ { 
+  NSUUID *uuid;
+  NSString *name;
+  float height;
+  }
+
+  NSArray<Mountain*> *mountains
+  =loadMountains();
