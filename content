@@ -1,1 +1,1 @@
-import turtle t = turtle.Pen0 for x in range（360）：tforward（x）tleft（59）
+
